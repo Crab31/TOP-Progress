@@ -4,3 +4,24 @@ I will be uploading a condensed version of my note files!
  
 Hey again Git its me im making this message to jog my memory on how to commit 
 and use git! :X
+
+3rd day checking on git making sure i know how to use it!
+
+Also yesterday i learned what html tags and elements are and created my first 
+text on a web page, obviousally i can't show it because i dont have hosting 
+or anything however i now understand how to tile using the <title> tags
+the <head> tags and what to use as the deafault (meta charset UTF-8 tag) 
+here is an example from memory:
+
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset=UTF-8>
+<title> this is my website!</title>
+</head>
+<body>
+this is the first body :D
+</body>
+</html>
+
+
